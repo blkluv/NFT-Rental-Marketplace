@@ -11,6 +11,6 @@
     "solidity-coverage": "^0.7.20"
   },
   "dependencies": {
-    "dayjs": "^1.11.0"
+    "dayjs": "^1.10.7"
   }
 }
